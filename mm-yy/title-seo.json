@@ -2,5 +2,6 @@
   "title": "The full title of the news item",
   "body": "A short paragraph about the news item in markdown",
   "date": "Annoucement or blog data, mm/dd/yyyy",
+  "topic": "one-word topic like react, angular, node, linux, ...etc",
   "mainLink": "The read more link"
 }
