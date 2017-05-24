@@ -1,0 +1,6 @@
+{
+  "title": "The full title of the news item",
+  "body": "A short paragraph about the news item in markdown",
+  "date": "Annoucement or blog data, mm/dd/yyyy",
+  "mainLink": "The read more link"
+}
