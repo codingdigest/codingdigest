@@ -1,5 +1,5 @@
 ---
-  title: React Router v4 Released
+  title: React Router 4 Released
   topic: React
   mainLink: https://reacttraining.com/react-router/
 ---
