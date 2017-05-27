@@ -11,5 +11,5 @@ Firefox, and Webkit. The outcome of WebAssembly is to create a binary format
 for browsers which will ultimately improve performance and decrease bundle size.
 The teams are now hard at work integrating the WebAssembly into browsers and
 updating the developer tools to make move the future of the web forward. For
-the engineers that love being no the cutting edge, you can begin experimenting
+the engineers that love being on the cutting edge, you can begin experimenting
 with WebAssembly by [compiling](http://webassembly.org/getting-started/developers-guide/) on your own machine.
